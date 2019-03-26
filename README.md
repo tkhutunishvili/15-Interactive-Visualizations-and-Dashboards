@@ -1,5 +1,13 @@
 # Belly Button Biodiversity
 
+Heroku link: https://belly-buttons-15.herokuapp.com  
+
+How to run Flask:  
+pip install -r requirements.txt  
+cd StarterCode/Belly_Button_Biodiversity  
+./run.sh  
+
+
 ![Bacteria by filterforge.com](Images/bacteria_by_filterforgedotcom.jpg)
 
 In this assignment, you will build an interactive dashboard to explore the [Belly Button Biodiversity DataSet](http://robdunnlab.com/projects/belly-button-biodiversity/).
